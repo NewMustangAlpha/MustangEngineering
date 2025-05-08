@@ -1,8 +1,9 @@
 # 🤖🇵🇦 🐎 Cónoce a nuestro equipo
 
-Este repositorio contiene el desarrollo del robot para la competencia de WRO 2025. Este utiliza sensores y motores para seguir un trayecto predefinido y cumplir diversas **misiones**. Está diseñado como un proyecto educativo de robótica de nuestra escuela Panamerican School. 
+Este repositorio contiene el desarrollo del robot para la competencia de WRO 2025. Este utiliza sensores y motores LEGO para seguir un trayecto y cumplir diversas **misiones**. Está diseñado como un proyecto educativo del club robótica de nuestra escuela Panamerican School. 
 
-## 🔧 Integrantes
+
+## 🔧 Integrantes: New Mustang Team
 
 - Sigue líneas negras sobre fondo blanco (o viceversa).
 - Usa sensores infrarrojos para detectar la trayectoria.
