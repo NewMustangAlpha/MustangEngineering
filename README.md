@@ -1,9 +1,8 @@
-# 🤖🇵🇦 🐎 Cónoce a nuestro equipo
+# 🤖 Line Follower Robot
 
-Este repositorio contiene el desarrollo del robot para la competencia de WRO 2025. Este utiliza sensores y motores LEGO para seguir un trayecto y cumplir diversas **misiones**. Está diseñado como un proyecto educativo del club robótica de nuestra escuela Panamerican School. 
+Este repositorio contiene el desarrollo de un **robot seguidor de línea** que utiliza sensores y motores para seguir un trayecto predefinido y cumplir diversas **misiones**. Está diseñado como un proyecto educativo de robótica, ideal para Arduino y Raspberry Pi.
 
-
-## 🔧 Integrantes: New Mustang Team
+## 🔧 Características principales
 
 - Sigue líneas negras sobre fondo blanco (o viceversa).
 - Usa sensores infrarrojos para detectar la trayectoria.
@@ -14,14 +13,14 @@ Este repositorio contiene el desarrollo del robot para la competencia de WRO 202
   - Detenerse en zonas de control.
   - Cambiar de dirección en intersecciones.
 
-## 🗂 Diseño del Robot
+## 🗂 Estructura del repositorio
 
 - `/code/`: Código fuente del robot (Arduino, Python).
 - `/docs/`: Diagramas, explicaciones técnicas.
 - `/hardware/`: Detalles sobre sensores, motores y esquemas.
 - `/missions/`: Descripción detallada de las misiones que debe cumplir el robot.
 
-## 🧠 Evidencias
+## 🧠 Tecnologías utilizadas
 
 - Arduino UNO o similar
 - Sensores infrarrojos (IR)
@@ -29,7 +28,7 @@ Este repositorio contiene el desarrollo del robot para la competencia de WRO 202
 - Batería recargable
 - Cables, chasis, y ruedas
 
-## 🚀 Espectativas
+## 🚀 Cómo empezar
 
 1. Clona este repositorio:
    ```bash
