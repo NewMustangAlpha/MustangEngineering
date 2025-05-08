@@ -1,8 +1,43 @@
-# MustangEngineering 🤖🇵🇦
-This repository contains the development of our robotics project. We document step by step our path of achievements and learning.
+# 🤖 Line Follower Robot
 
+Este repositorio contiene el desarrollo de un **robot seguidor de línea** que utiliza sensores y motores para seguir un trayecto predefinido y cumplir diversas **misiones**. Está diseñado como un proyecto educativo de robótica, ideal para Arduino y Raspberry Pi.
 
-![](https://github.com/NewMustangAlpha/MustangEngineering/blob/e2f8a8236dd0a5e6487d781c6de44d72feb4d719/Header%20NewMustang.png)
+## 🔧 Características principales
 
+- Sigue líneas negras sobre fondo blanco (o viceversa).
+- Usa sensores infrarrojos para detectar la trayectoria.
+- Controlado por un microcontrolador (como Arduino Uno).
+- Motores DC con control PWM para ajuste de velocidad.
+- Soporte para múltiples misiones como:
+  - Seguir el circuito completo.
+  - Detenerse en zonas de control.
+  - Cambiar de dirección en intersecciones.
 
-![](https://github.com/NewMustangAlpha/MustangEngineering/blob/main/Conócenos.jpg)
+## 🗂 Estructura del repositorio
+
+- `/code/`: Código fuente del robot (Arduino, Python).
+- `/docs/`: Diagramas, explicaciones técnicas.
+- `/hardware/`: Detalles sobre sensores, motores y esquemas.
+- `/missions/`: Descripción detallada de las misiones que debe cumplir el robot.
+
+## 🧠 Tecnologías utilizadas
+
+- Arduino UNO o similar
+- Sensores infrarrojos (IR)
+- Motores DC con driver L298N
+- Batería recargable
+- Cables, chasis, y ruedas
+
+## 🚀 Cómo empezar
+
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/tu-usuario/line-follower-robot.git
+   ```
+2. Abre la carpeta `code/arduino/` y carga el código en tu placa Arduino.
+3. Consulta la carpeta `hardware/` para ver la lista de componentes y esquemas.
+4. Usa la carpeta `missions/` para realizar pruebas y retos.
+
+## 📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
