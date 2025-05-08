@@ -1,9 +1,8 @@
-# 🤖 Line Follower Robot
+# 🤖🇵🇦 🐎 New Mustang Team 2025
 
-Este repositorio contiene el desarrollo de un **robot seguidor de línea** que utiliza sensores y motores para seguir un trayecto predefinido y cumplir diversas **misiones**. Está diseñado como un proyecto educativo de robótica, ideal para Arduino y Raspberry Pi.
+Este repositorio contiene el desarrollo de un robot que utiliza sensores y motores para seguir un trayecto y cumplir diversas **misiones**. Está diseñado como un proyecto educativo del club de robótica de nuestra escuela Panamericanismos School.
 
-## 🔧 Características principales
-
+## 🔧 ¿Quienes somos?
 - Sigue líneas negras sobre fondo blanco (o viceversa).
 - Usa sensores infrarrojos para detectar la trayectoria.
 - Controlado por un microcontrolador (como Arduino Uno).
