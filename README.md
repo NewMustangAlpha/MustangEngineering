@@ -1,5 +1,6 @@
 # 🤖🇵🇦 🐎 New Mustang Team 2025
 
+
 Este repositorio contiene el desarrollo de un robot que utiliza sensores y motores para seguir un trayecto y cumplir diversas **misiones**. Está diseñado como un proyecto educativo del club de robótica de nuestra escuela Panamericanismos School.
 
 ## 🔧 ¿Quienes somos?
