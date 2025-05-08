@@ -1,5 +1,5 @@
 # 🤖🇵🇦 🐎 New Mustang Team 2025
-![Diagrama del circuito]([docs/circuit-diagram.png](https://github.com/NewMustangAlpha/MustangEngineering/blob/main/Header%20NewMustang.png))
+![](https://github.com/NewMustangAlpha/MustangEngineering/blob/main/Header%20NewMustang.png)
 
 Este repositorio contiene el desarrollo de un robot que utiliza sensores y motores para seguir un trayecto y cumplir diversas **misiones**. Está diseñado como un proyecto educativo del club de robótica de nuestra escuela Panamericanismos School.
 
