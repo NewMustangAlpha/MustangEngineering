@@ -1,6 +1,6 @@
 # 🤖 Cónoce a nuestro equipo
-![] (https://github.com/NewMustangAlpha/MustangEngineering/blob/main/Header%20NewMustang.png)
-Este repositorio contiene el desarrollo de un **robot seguidor de línea** que utiliza sensores y motores para seguir un trayecto predefinido y cumplir diversas **misiones**. Está diseñado como un proyecto educativo de robótica, ideal para Arduino y Raspberry Pi.
+
+Este repositorio contiene el desarrollo del robot para la competencia de WRO 2025. Este utiliza sensores y motores para seguir un trayecto predefinido y cumplir diversas **misiones**. Está diseñado como un proyecto educativo de robótica de nuestra escuela Panamerican School. 
 
 ## 🔧 Integrantes
 
