@@ -1,8 +1,8 @@
-# 🤖 Line Follower Robot
+# 🤖 Cónoce a nuestro equipo
 
 Este repositorio contiene el desarrollo de un **robot seguidor de línea** que utiliza sensores y motores para seguir un trayecto predefinido y cumplir diversas **misiones**. Está diseñado como un proyecto educativo de robótica, ideal para Arduino y Raspberry Pi.
 
-## 🔧 Características principales
+## 🔧 Integrantes
 
 - Sigue líneas negras sobre fondo blanco (o viceversa).
 - Usa sensores infrarrojos para detectar la trayectoria.
@@ -13,14 +13,14 @@ Este repositorio contiene el desarrollo de un **robot seguidor de línea** que u
   - Detenerse en zonas de control.
   - Cambiar de dirección en intersecciones.
 
-## 🗂 Estructura del repositorio
+## 🗂 Diseño del Robot
 
 - `/code/`: Código fuente del robot (Arduino, Python).
 - `/docs/`: Diagramas, explicaciones técnicas.
 - `/hardware/`: Detalles sobre sensores, motores y esquemas.
 - `/missions/`: Descripción detallada de las misiones que debe cumplir el robot.
 
-## 🧠 Tecnologías utilizadas
+## 🧠 Evidencias
 
 - Arduino UNO o similar
 - Sensores infrarrojos (IR)
@@ -28,7 +28,7 @@ Este repositorio contiene el desarrollo de un **robot seguidor de línea** que u
 - Batería recargable
 - Cables, chasis, y ruedas
 
-## 🚀 Cómo empezar
+## 🚀 Espectativas
 
 1. Clona este repositorio:
    ```bash
