@@ -3,18 +3,18 @@
 
 This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamericanismos School.
 
-## 🔧 Conoce a nuestro Team
+## 🔧 Meet Our Team
 ![image](https://github.com/user-attachments/assets/6c0bd369-10ff-4a9e-99dd-c9dc748e1f95)
 
 
-## 🗂 Estructura del Robot New Mustang
+## 🗂 Structure of the New Mustang Robot
 
 - `/code/`: Código fuente del robot (Arduino, Python).
 - `/docs/`: Diagramas, explicaciones técnicas.
 - `/hardware/`: Detalles sobre sensores, motores y esquemas.
 - `/missions/`: Descripción detallada de las misiones que debe cumplir el robot.
 
-## 🧠 Tecnologías utilizadas
+## 🧠 Technology Used
 
 - Arduino UNO o similar
 - Sensores infrarrojos (IR)
@@ -22,7 +22,7 @@ This repository contains the development of a robot that uses sensors and motors
 - Batería recargable
 - Cables, chasis, y ruedas
 
-## 🚀 Cómo empezar
+## 🚀 Video
 
 1. Clona este repositorio:
    ```bash
