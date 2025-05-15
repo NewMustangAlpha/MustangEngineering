@@ -4,14 +4,7 @@
 This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamericanismos School.
 
 ## 🔧 Conoce a nuestro Team
-- Sigue líneas negras sobre fondo blanco (o viceversa).
-- Usa sensores infrarrojos para detectar la trayectoria.
-- Controlado por un microcontrolador (como Arduino Uno).
-- Motores DC con control PWM para ajuste de velocidad.
-- Soporte para múltiples misiones como:
-  - Seguir el circuito completo.
-  - Detenerse en zonas de control.
-  - Cambiar de dirección en intersecciones.
+![](https://github.com/NewMustangAlpha/MustangEngineering/blob/main/T-Photos/Conócenos-3.jpg)
 
 ## 🗂 Estructura del Robot New Mustang
 
