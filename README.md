@@ -5,6 +5,8 @@ This repository contains the development of a robot that uses sensors and motors
 ## 🔧 Meet Our Team
 ![image](https://github.com/user-attachments/assets/e9d0d6ec-df29-4fcf-a35b-6f96b8ec7968)
 
+![Conócenos-3](https://github.com/user-attachments/assets/ef51204b-5023-4c63-8e46-2cc5b5c2838b)
+
 
 
 ## 🗂 Structure of the New Mustang Robot
