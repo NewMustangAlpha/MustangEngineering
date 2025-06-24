@@ -1,6 +1,6 @@
 # 🤖🇵🇦 🐎 New Mustang Team 2025
 ![Header NewMustang](https://github.com/user-attachments/assets/9bedd96d-4d90-4690-a853-c74f32e8ce53)
-This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamericanismos School.
+This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamerican School.
 
 ## 🔧 Meet Our Team
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
