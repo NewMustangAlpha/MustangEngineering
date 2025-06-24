@@ -21,7 +21,7 @@ This repository contains the development of a robot that uses sensors and motors
 
 ## 🧠 Robot Track Practice
 
-![Practica 1](https://github.com/user-attachments/assets/3ddea4f2-f433-420f-b176-75e06ca8b5e7)
+
 - Motor test 1, ussing the track
 - Motores DC con driver L298N
 - Batería recargable
