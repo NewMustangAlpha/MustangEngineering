@@ -12,7 +12,8 @@ This repository contains the development of a robot that uses sensors and motors
 
 ![Prototype](https://github.com/user-attachments/assets/6cb657ea-4d41-4950-802b-88867fec96a3)
 
-![Description](https://github.com/user-attachments/assets/0e4c764e-a9b4-4b42-89f7-c0fbe9449821)
+![Description](https://github.com/user-attachments/assets/f36fc052-006d-41dc-aaa5-b2d17daf594e)
+
 
 
 - `/hardware/`: Detalles sobre sensores, motores y esquemas.
