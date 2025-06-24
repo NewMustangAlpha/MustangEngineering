@@ -3,9 +3,8 @@
 This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamericanismos School.
 
 ## 🔧 Meet Our Team
-![Conócenos-3](https://github.com/user-attachments/assets/5ca6b134-4f34-42db-a978-4df8300cfb99)
-![Conócenos-3](https://github.com/user-attachments/assets/ef51204b-5023-4c63-8e46-2cc5b5c2838b)
-
+![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
+![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 
 
 ## 🗂 Structure of the New Mustang Robot
