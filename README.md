@@ -19,10 +19,11 @@ This repository contains the development of a robot that uses sensors and motors
 - `/hardware/`: Detalles sobre sensores, motores y esquemas.
 - `/missions/`: Descripción detallada de las misiones que debe cumplir el robot.
 
-## 🧠 Technology Used
+## 🧠 Robot Track Practice
 
-- Arduino UNO o similar
-- Sensores infrarrojos (IR)
+![Practica 1](https://github.com/user-attachments/assets/5baccd80-f7df-46b7-9d30-8d77ae804253)
+
+- Motor test 1, ussing the track
 - Motores DC con driver L298N
 - Batería recargable
 - Cables, chasis, y ruedas
