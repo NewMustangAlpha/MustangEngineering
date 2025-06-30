@@ -18,6 +18,7 @@ This repository contains the development of a robot that uses sensors and motors
 
 ## Component
 ![Component Map](https://github.com/user-attachments/assets/7298b296-3010-4794-9217-b49bc0c5412e)
+
 Robot Component Map
 1. Central Unit (Hub): Brain of the robot, Receives and processes sensor data and Sends commands to motors
 2. Motors: Drive Motors: Provide movement to the wheels (left and right), Steering Motor (if separate): Controls direction or steering mechanism
@@ -26,10 +27,10 @@ Arm/Lift
 4. Motors: Steering Motor (Direction Control Motor):
 Controls the steering mechanism of the robot and raction Motors (Drive or Propulsion Motors):
 Provide the main movement (forward and backward) connected to the wheels or tracks and Control the speed and acceleration of the robot.
-
 5. Wheels and Tires:
 Provide traction and mobility
 Connected to drive motors
+
  ## 🧠 Robot Track Practice
 [Video/práctica.mp4](https://youtube.com/shorts/UFMvW3aFJpc?feature=share)
 - Motor test 1, ussing the track
