@@ -32,18 +32,12 @@ Provide traction and mobility
 Connected to drive motors
 
  ## 🧠 Robot Track Practice
+ PRACTICE 1 
+ ![Practica 1](https://github.com/user-attachments/assets/9b931950-977b-45ba-be6e-f7c1d68b6f55)
+Practice 1: Test the Robot on the Track
+Objective: Test the robot on the practice track to verify that all components are working correctly.
 [Video/práctica.mp4](https://youtube.com/shorts/UFMvW3aFJpc?feature=share)
-- Motor test 1, ussing the track
-- Motores DC con driver L298N
-- Batería recargable
-- Cables, chasis, y ruedas
-1. Clona este repositorio:
-   ```bash
-   git clone https://github.com/tu-usuario/line-follower-robot.git
-   ```
-2. Abre la carpeta `code/arduino/` y carga el código en tu placa Arduino.
-3. Consulta la carpeta `hardware/` para ver la lista de componentes y esquemas.
-4. Usa la carpeta `missions/` para realizar pruebas y retos.
+
 
 ## 🚀 Mission
 
