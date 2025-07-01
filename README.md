@@ -33,7 +33,7 @@ Connected to drive motors
 
  ## 🧠 Robot Track Practice
  PRACTICE 1 
- ![Practica 1](https://github.com/user-attachments/assets/9b931950-977b-45ba-be6e-f7c1d68b6f55)
+![Practice1](https://github.com/user-attachments/assets/2f6b08c6-20e2-46a2-8ba7-7729f4d60b95)
 Practice 1: Test the Robot on the Track
 Objective: Test the robot on the practice track to verify that all components are working correctly.
 [Video/práctica.mp4](https://youtube.com/shorts/UFMvW3aFJpc?feature=share)
