@@ -6,6 +6,8 @@ This repository contains the development of a robot that uses sensors and motors
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 
+## 🦾 Table of Contents
+(#:Structure-of-the-New-Mustang-Robot)
 
 ## 🗂 Structure of the New Mustang Robot
 
@@ -16,7 +18,7 @@ This repository contains the development of a robot that uses sensors and motors
 ![Wheels-Hub](https://github.com/user-attachments/assets/0c414883-2ced-40e1-b5cd-5224cbeb778d)
 ![Sensor2](https://github.com/user-attachments/assets/9fe3caab-1c9c-47ff-856e-0709edb62075)
 
-## Component
+## 🎮 Component
 ![Component Map](https://github.com/user-attachments/assets/7298b296-3010-4794-9217-b49bc0c5412e)
 
 Robot Component Map
@@ -39,7 +41,7 @@ Objective: Test the robot on the practice track to verify that all components ar
 [Video/práctica.mp4](https://youtube.com/shorts/UFMvW3aFJpc?feature=share)
 
 
-## 🚀 Programming
+## 🌺 Programming
 
 
 ## 🚀 Mission Robotics
