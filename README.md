@@ -3,7 +3,7 @@
 This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamerican School.
 ## 🦾 Table of Contents
 * [Meet-Our-Team]
-## 🔧 [Meet-Our-Team]
+## 🔧 Meet-Our-Team
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 
