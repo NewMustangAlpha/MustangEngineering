@@ -2,8 +2,8 @@
 ![Header NewMustang](https://github.com/user-attachments/assets/9bedd96d-4d90-4690-a853-c74f32e8ce53)
 This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamerican School.
 ## 🦾 Table of Contents
-* [Meet Our Team](#Meet-Our-Team)
-* [Descripción](#descripción)
+* [Meet Our Team](#meet-our-team)
+* [Structure of the New Mustang Robot](#structure of the new mustang robot)
 * [Componentes](#componentes)
 * [Instalación](#instalación)
 * [Uso](#uso)
