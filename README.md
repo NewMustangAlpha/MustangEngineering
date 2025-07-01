@@ -39,6 +39,10 @@ Objective: Test the robot on the practice track to verify that all components ar
 [Video/práctica.mp4](https://youtube.com/shorts/UFMvW3aFJpc?feature=share)
 
 
-## 🚀 Mission
+## 🚀 Programming
 
-Este proyecto está bajo la licencia MIT. Ver [LICENSE](LICENSE) para más detalles.
+
+## 🚀 Mission Robotics
+WRO ® Misiones robóticas: esta categoría se basa en retos.  Los estudiantes crearán  un robot autónomo que pueda resolver retos  específicos en una pista según la temática del año y el grupo de edad.
+
+
