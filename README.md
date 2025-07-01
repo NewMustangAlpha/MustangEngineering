@@ -1,13 +1,14 @@
 # 🤖🇵🇦 🐎 New Mustang Team 2025
 ![Header NewMustang](https://github.com/user-attachments/assets/9bedd96d-4d90-4690-a853-c74f32e8ce53)
 This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamerican School.
-## 🦾 Table of Contents
+## Table of Contents
 - [Meet Our Team](#meet-our-team)
 - [Structure of the New Mustang Robot](#structure-of-the-newmustang-robot)
 - [Components](#Components)
 - [Robot Track Practice](#robot-track-practice)
 - [Programming](#programming)
 - [Mission Robotics](#mission-robotics)
+- [Table of Contents](#table-of-contents)
 ## Meet Our Team
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
@@ -22,6 +23,7 @@ This repository contains the development of a robot that uses sensors and motors
 
 ## Components
 ![Component Map](https://github.com/user-attachments/assets/7298b296-3010-4794-9217-b49bc0c5412e)
+
 Robot Component Map
 1. Central Unit (Hub): Brain of the robot, Receives and processes sensor data and Sends commands to motors
 2. Motors: Drive Motors: Provide movement to the wheels (left and right), Steering Motor (if separate): Controls direction or steering mechanism
