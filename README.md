@@ -13,7 +13,7 @@ This repository contains the development of a robot that uses sensors and motors
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 ----
-- [Table of Contents](#table-of-contents)
+- [Back to: Table of Contents](#table-of-contents)
 ----
 ## Structure of the New Mustang Robot
 ![Prototype](https://github.com/user-attachments/assets/6cb657ea-4d41-4950-802b-88867fec96a3)
