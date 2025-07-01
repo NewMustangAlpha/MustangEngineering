@@ -8,7 +8,7 @@ This repository contains the development of a robot that uses sensors and motors
 - [Instalación](#instalación)
 - [Uso](#uso)
 - [Licencia](#licencia)
-## 🔧 (#Meet Our Team]
+## 🔧 Meet Our Team
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 
