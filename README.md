@@ -13,8 +13,7 @@ This repository contains the development of a robot that uses sensors and motors
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 ----
-- [Back to: Table of Contents](#table-of-contents)
-----
+
 ## Structure of the New Mustang Robot
 ![Prototype](https://github.com/user-attachments/assets/6cb657ea-4d41-4950-802b-88867fec96a3)
 ![Description](https://github.com/user-attachments/assets/f36fc052-006d-41dc-aaa5-b2d17daf594e)
@@ -22,7 +21,7 @@ This repository contains the development of a robot that uses sensors and motors
 ![Motors](https://github.com/user-attachments/assets/c4576df7-2ffd-438c-9043-0eac8145208b)
 ![Wheels-Hub](https://github.com/user-attachments/assets/0c414883-2ced-40e1-b5cd-5224cbeb778d)
 ![Sensor2](https://github.com/user-attachments/assets/9fe3caab-1c9c-47ff-856e-0709edb62075)
-
+----
 ## Components
 ![Component Map](https://github.com/user-attachments/assets/7298b296-3010-4794-9217-b49bc0c5412e)
 
@@ -37,7 +36,7 @@ Provide the main movement (forward and backward) connected to the wheels or trac
 5. Wheels and Tires:
 Provide traction and mobility
 Connected to drive motors
-
+----
  ## Robot Track Practice
 ![Practice1](https://github.com/user-attachments/assets/2f6b08c6-20e2-46a2-8ba7-7729f4d60b95)
 
@@ -45,11 +44,12 @@ Connected to drive motors
 Objective: Test the robot on the practice track to verify that all components are working correctly.
 [Video/práctica.mp4](https://youtube.com/shorts/UFMvW3aFJpc?feature=share)
 
+----
 
 ## Programming
 
-
+----
 ## Mission Robotics
 WRO ® Misiones robóticas: esta categoría se basa en retos.  Los estudiantes crearán  un robot autónomo que pueda resolver retos  específicos en una pista según la temática del año y el grupo de edad.
 
-
+- [Table of Contents](#table-of-contents)
