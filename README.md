@@ -3,7 +3,7 @@
 This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamerican School.
 ## 🦾 Table of Contents
 * [Meet Our Team](#meet-our-team)
-* [Structure of the New Mustang Robot](#structure of the new mustang robot)
+* [Structure of the New Mustang Robot](#structure-of-the-newmustang-robot)
 * [Componentes](#componentes)
 * [Instalación](#instalación)
 * [Uso](#uso)
