@@ -8,11 +8,11 @@ This repository contains the development of a robot that uses sensors and motors
 - [Robot Track Practice](#robot-track-practice)
 - [Programming](#programming)
 - [Mission Robotics](#mission-robotics)
-## Meet Our Team
+## Meet Our Team 🔧
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 
-## 🗂 Structure of the New Mustang Robot
+## Structure of the New Mustang Robot 🗂
 ![Prototype](https://github.com/user-attachments/assets/6cb657ea-4d41-4950-802b-88867fec96a3)
 ![Description](https://github.com/user-attachments/assets/f36fc052-006d-41dc-aaa5-b2d17daf594e)
 ![Ultrasonic](https://github.com/user-attachments/assets/2941ebbc-5b7f-4e76-9492-61b08ed07c74)
