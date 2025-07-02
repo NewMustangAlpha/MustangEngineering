@@ -55,8 +55,8 @@ Objective: Test the robot on the practice track to verify that all components ar
 Practice 2
 https://youtu.be/iMKh8HPPIVA
 
+![Practicas](https://github.com/user-attachments/assets/bff80123-3c29-44b5-a56d-4dfe393a2972)
 ----
-
 ## Programming
 
 ----
