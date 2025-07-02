@@ -3,6 +3,9 @@
 This repository contains the development of a robot that uses sensors and motors to follow a path and complete various missions. It is designed as an educational project by the robotics club of our school, Panamerican School.
 ## Table of Contents
 - [Meet Our Team](#meet-our-team)
+    - [Ana Victoria](#ana-victoria)
+    - [Christel Choa](#christel-choa)
+    - [Coach Victor](#coach-victor)
 - [Structure of the New Mustang Robot](#structure-of-the-newmustang-robot)
 - [Components](#Components)
 - [Robot Track Practice](#robot-track-practice)
@@ -10,8 +13,11 @@ This repository contains the development of a robot that uses sensors and motors
 - [Mission Robotics](#mission-robotics)
 
 ## Meet Our Team
+## Ana Victoria
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
+## Christel Choa
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
+## Coach Victor
 ![Coach Victor ](https://github.com/user-attachments/assets/582cdc1f-ef37-4b52-9229-0be11581f89d)
 ----
 
