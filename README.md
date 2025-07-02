@@ -52,6 +52,9 @@ Connected to drive motors
 Objective: Test the robot on the practice track to verify that all components are working correctly.
 [Video/práctica.mp4](https://youtube.com/shorts/UFMvW3aFJpc?feature=share)
 
+Practice 2
+https://youtu.be/iMKh8HPPIVA
+
 ----
 
 ## Programming
