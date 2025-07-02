@@ -18,7 +18,8 @@ This repository contains the development of a robot that uses sensors and motors
 ## Christel Choa
 ![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
 ## Coach Victor
-![Coach Victor ](https://github.com/user-attachments/assets/582cdc1f-ef37-4b52-9229-0be11581f89d)
+![Coach Victor -2](https://github.com/user-attachments/assets/7250179b-2f0b-4f1e-8e63-facf6d7e64d4)
+
 ----
 
 ## Structure of the New Mustang Robot
