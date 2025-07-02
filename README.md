@@ -16,7 +16,7 @@ This repository contains the development of a robot that uses sensors and motors
 ## Ana Victoria
 ![Ana Vic](https://github.com/user-attachments/assets/67f17eb9-cd08-4e34-861a-6b5de21f82f4)
 ## Christel Choa
-![Choa](https://github.com/user-attachments/assets/f6ca30c8-7844-49a0-aed9-2b8cb8b34baa)
+![Choa](https://github.com/user-attachments/assets/dfad9bfc-ab6e-4f66-a945-1978f9c33535)
 ## Coach Victor
 ![Coach Victor -2](https://github.com/user-attachments/assets/7250179b-2f0b-4f1e-8e63-facf6d7e64d4)
 
